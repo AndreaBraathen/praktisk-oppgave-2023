@@ -1,0 +1,16 @@
+:root {
+
+	/* Color variables */
+	--background-color: #E5E5E5;
+	--main-font-color: #000000;
+	--transparent-dark-color: rgba(117, 117, 117, 1);
+
+	/* Font size variables */
+	--big-headline-desktop: 48px;
+	--medium-headline-desktop: 40px;
+	--headline-genre-desktop: 14px;
+	--navigation-link-desktop: 15px;
+	--body-text-desktop: 20px;
+	--footer-link-desktop: 18px;
+
+}
