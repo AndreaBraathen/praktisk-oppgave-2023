@@ -18,3 +18,9 @@ li {
 	list-style: none;
 	text-decoration: none;
 }
+
+select {
+	background: inherit;
+	border: none;
+}
+
