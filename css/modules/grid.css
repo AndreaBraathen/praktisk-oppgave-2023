@@ -1,0 +1,49 @@
+.grid-container {
+	text-align: center;
+}
+
+.grid__container-main-headline {
+	font-weight: 700;
+	font-family: 'Open Sans';
+	padding: 1.5rem 0;
+	/* font-size: var(--big-headline-mobile); */
+}
+
+.grid__container-main-paragraph {
+	font-family: 'Crimson Text';
+	padding: 1.5rem 0;
+}
+
+.grid__container-label {
+	font-family: 'Crimson Text';
+	padding: 0.4rem 1rem;
+	font-weight: 700;
+	background: var(--main-font-color);
+	color: var(--secondary-font-color);
+	font-size: var(--headline-genre-desktop);
+}
+
+.grid__container-headline {
+	font-weight: 700;
+	font-family: 'Open Sans';
+	padding: 0.8rem 0;
+}
+
+.grid__container-paragraph {
+	font-family: 'Crimson Text';
+	padding: 1rem 0;
+}
+
+@media screen and (min-width: 1000px) {
+	.grid__container-advert-small {
+		width: 1200px;
+		height: 300px;
+		object-fit: contain;
+	}
+
+	.grid__container-advert-large {
+		width: 1200px;
+		height: 636px;
+		object-fit: contain;
+	}
+}
