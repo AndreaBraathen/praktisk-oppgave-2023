@@ -13,4 +13,8 @@
 	--body-text-desktop: 20px;
 	--footer-link-desktop: 18px;
 
+	--logo-font-desktop: 64px; 
+	--logo-font-mobile: 55px;
+	--navigation-link-mobile: 13px;
+
 }
