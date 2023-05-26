@@ -1,9 +1,9 @@
 :root {
-
 	/* Color variables */
 	--background-color: #E5E5E5;
 	--main-font-color: #000000;
 	--transparent-dark-color: rgba(117, 117, 117, 1);
+	--secondary-font-color: #ffffff;
 
 	/* Font size variables */
 	--big-headline-desktop: 48px;
@@ -16,5 +16,8 @@
 	--logo-font-desktop: 64px; 
 	--logo-font-mobile: 55px;
 	--navigation-link-mobile: 13px;
+	--big-headline-mobile: 30px;
+	--medium-headline-mobile: 20px;
+	--headline-genre-mobile: 12px;
 
 }
