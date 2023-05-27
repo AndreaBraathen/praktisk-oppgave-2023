@@ -6,18 +6,23 @@
 	--secondary-font-color: #ffffff;
 
 	/* Font size variables */
+
+	/* For desktop */
 	--big-headline-desktop: 48px;
 	--medium-headline-desktop: 40px;
 	--headline-genre-desktop: 14px;
 	--navigation-link-desktop: 15px;
 	--body-text-desktop: 20px;
 	--footer-link-desktop: 18px;
+	--logo-font-desktop: 64px;
 
-	--logo-font-desktop: 64px; 
+	/* For mobile */
 	--logo-font-mobile: 55px;
 	--navigation-link-mobile: 13px;
 	--big-headline-mobile: 30px;
+	--body-text-mobile: 16px;
 	--medium-headline-mobile: 20px;
 	--headline-genre-mobile: 12px;
+	--small-body-text-mobile: 12px;
 
 }
