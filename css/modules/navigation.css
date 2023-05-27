@@ -4,10 +4,10 @@
 
 .navigation__logo {
 	position: absolute;
-	width: 80px;
-	height: 85px;
-	left: 35px;
-	top: 35px;
+	width: 5rem;
+	height: 5.313rem;
+	left: 2.188rem;
+	top: 2.188rem;
 	font-family: 'Josefin Sans', sans-serif;
 	font-style: normal;
 	font-size: var(--logo-font-mobile);
@@ -49,45 +49,45 @@
 
 .navigation__menu-name {
 	position: absolute;
-	width: 42px;
-	height: 17px;
+	width: 2.625rem;
+	height: 1.063rem;
 	right: 5rem;
-	top: 61px;
+	top: 3.813rem;
 	font-family: 'Ubuntu';
 	font-style: normal;
 	font-weight: 400;
 	font-size: var(--navigation-link-mobile);
 	text-transform: uppercase;
-	line-height: 17px;
+	line-height: 1.063rem;
 	color: var(--main-font-color);
 }
 
 .navigation__menu-button {
 	position: absolute;
-	width: 20px;
-	height: 2px;
+	width: 1.25rem;
+	height: 0.125rem;
 	right: 3.5rem;
-	top: 60px;
+	top: 3.75rem;
 }
 
 @media screen and (min-width: 768px) {
 	.navigation__select {
 		width: 7.5rem;
-		left: 230px;
-		top: 65px;
+		left: 14.375rem;
+		top: 4.063rem;
 		text-align: center;
 	}
 
 	.navigation__call-to-action {
-		top: 67px;
+		top: 4.188rem;
 	}
 
 	.navigation__menu-name {
-		top: 65px;
+		top: 4.063rem;
 	}
 
 	.navigation__menu-button {
-		top: 64px;
+		top: 4rem;
 	}
 
 }
@@ -104,26 +104,26 @@
 	}
 
 	.navigation__logo {
-		width: 103px;
-		height: 112px;
-		left: 70px;
-		top: 51px;
+		width: 6.438rem;
+		height: 7rem;
+		left: 4.375rem;
+		top: 3.188rem;
 		font-size: var(--logo-font-desktop);
 	}
 
 	.navigation__call-to-action {
-		width: 91px;
-		height: 18px;
-		left: 187px;
-		top: 97px;
+		width: 5.688rem;
+		height: 1.125rem;
+		left: 11.688rem;
+		top: 6.063rem;
 		font-size: var(--navigation-link-desktop);
 	}
 
 	.navigation__select {
 		width: 8rem;
-		height: 18px;
-		left: 289px;
-		top: 97px;
+		height: 1.125rem;
+		left: 18.063rem;
+		top: 6.063rem;
 		font-size: var(--navigation-link-desktop);
 		line-height: 117.68%;
 		background-size: 0.8rem;
@@ -131,17 +131,17 @@
 	}
 
 	.navigation__menu-name {
-		width: 42px;
-		height: 17px;
-		left: 1221px;
-		top: 97px;
+		width: 2.625rem;
+		height: 1.063rem;
+		left: 76.313rem;
+		top: 6.063rem;
 		font-size: var(--navigation-link-desktop);
 	}
 
 	.navigation__menu-button {
-		width: 20px;
-		height: 2px;
-		left: 1270px;
-		top: 97px;
+		width: 1.25rem;
+		height: 0.125rem;
+		left: 79.375rem;
+		top: 6.063rem;
 	}
 }
