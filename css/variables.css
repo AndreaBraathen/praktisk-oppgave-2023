@@ -1,4 +1,6 @@
 :root {
+	font-size: 16px;
+
 	/* Color variables */
 	--background-color: #E5E5E5;
 	--main-font-color: #000000;
@@ -6,7 +8,6 @@
 	--secondary-font-color: #ffffff;
 
 	/* Font size variables */
-
 	/* For desktop */
 	--big-headline-desktop: 45px;
 	--medium-headline-desktop: 35px;
