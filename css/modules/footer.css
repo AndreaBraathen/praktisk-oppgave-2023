@@ -1,0 +1,42 @@
+footer {
+	display: flex;
+	flex-direction: column;
+	margin: 3rem 0;
+}
+
+.footer__logo {
+	font-family: 'Josefin Sans', sans-serif;
+	font-style: normal;
+	font-size: var(--logo-font-mobile);
+	line-height: 87.18%;
+	text-align: center;
+}
+
+.footer__links {
+	display: flex;
+	flex-direction: column;
+	margin: 2rem 0;
+}
+
+.footer__links-button {
+	padding: 0.5rem 0;
+	color: var(--main-font-color);
+	font-size: var(--navigation-link-mobile);
+}
+
+.footer__copyright {
+	text-align: center;
+	font-size: var(--small-body-text-mobile);
+}
+
+@media screen and (min-width: 950px) {
+	.footer__links {
+		flex-direction: row;
+		justify-content: center;
+	}
+
+	.footer__links-button {
+		padding: 0 0.5rem;
+	}
+
+}
