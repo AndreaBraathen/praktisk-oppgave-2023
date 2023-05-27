@@ -8,11 +8,11 @@
 	/* Font size variables */
 
 	/* For desktop */
-	--big-headline-desktop: 48px;
-	--medium-headline-desktop: 40px;
+	--big-headline-desktop: 45px;
+	--medium-headline-desktop: 35px;
 	--headline-genre-desktop: 14px;
 	--navigation-link-desktop: 15px;
-	--body-text-desktop: 20px;
+	--body-text-desktop: 18px;
 	--footer-link-desktop: 18px;
 	--logo-font-desktop: 64px;
 
@@ -21,7 +21,7 @@
 	--navigation-link-mobile: 13px;
 	--big-headline-mobile: 30px;
 	--body-text-mobile: 16px;
-	--medium-headline-mobile: 20px;
+	--medium-headline-mobile: 25px;
 	--headline-genre-mobile: 12px;
 	--small-body-text-mobile: 12px;
 
